@@ -1,0 +1,8 @@
+cenário,pontuação,variação vs típico,classificação
+Vinho típico (mediana geral),0.21861976051793405,0.0,baixa/média
+Teor alcoólico: 10.1 → 11.6,0.46002526559912843,0.24140550508119438,baixa/média
+Sulfatos: 0.62 → 0.74,0.3039901989887373,0.08537043847080325,baixa/média
+Acidez volátil: 0.52 → 0.37,0.27955027169307406,0.060930511175140006,baixa/média
+SO₂ total: 39 → 27,0.25553971928334046,0.03691995876540641,baixa/média
+Cloretos: 0.079 → 0.073,0.22987769638475142,0.011257935866817365,baixa/média
+Todas as 5 alavancas juntas,0.707096804320083,0.48847704380214896,ALTA qualidade

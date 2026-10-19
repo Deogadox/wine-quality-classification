@@ -1,0 +1,4 @@
+modelo,PR-AUC na busca (CV 5 folds),melhores hiperparâmetros
+Regressão Logística,0.5230472096214147,"{'C': 0.03, 'l1_ratio': 0.0}"
+Random Forest,0.5496366668188075,"{'max_depth': None, 'max_features': 0.5, 'min_samples_leaf': 1}"
+Gradient Boosting,0.5334304134998364,"{'l2_regularization': 1.0, 'learning_rate': 0.1, 'max_depth': 3, 'max_iter': 200, 'min_samples_leaf': 10}"
