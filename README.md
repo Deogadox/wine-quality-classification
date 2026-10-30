@@ -2,7 +2,11 @@
 
 Modelo de classificação que prevê se um vinho tinto é de **alta qualidade (nota ≥ 7)** ou **baixa/média qualidade (nota < 7)** a partir de suas características físico-químicas — apoiando enólogos e produtores na tomada de decisão durante a produção.
 
+🎬 **Vídeo de apresentação:** https://youtu.be/bnD7dri3Oyg
+
 📊 **Apresentação executiva (storytelling da análise):** [`presentation/apresentacao_executiva.pdf`](presentation/apresentacao_executiva.pdf) · [versão PowerPoint](presentation/apresentacao_executiva.pptx)
+
+👥 **Grupo:** Felipe Rios Miranda · Guilherme Tavares Azevedo · Thamyres Schroeder Paula Souza
 
 ---
 
@@ -113,7 +117,7 @@ wine-quality-classification/
 │   ├── models/                    # Modelo final (best_model.joblib) e artefatos
 │   └── *.csv                      # Métricas, tuning, importâncias, simulações
 ├── presentation/
-│   ├── apresentacao_executiva.pdf # Storytelling da análise (PDF)
+│   ├── apresentacao_executiva.pdf # Storytelling da análise (PDF) — vídeo: https://youtu.be/bnD7dri3Oyg
 │   └── apresentacao_executiva.pptx
 ├── requirements.txt
 └── README.md
@@ -155,8 +159,10 @@ print(f"Pontuação: {score:.2f} → {'ALTA qualidade' if score >= threshold els
 
 ---
 
-## Autor
+## Integrantes
 
-**Felipe Rios Miranda** — [github.com/Deogadox](https://github.com/Deogadox)
+- **Felipe Rios Miranda** — [github.com/Deogadox](https://github.com/Deogadox)
+- **Guilherme Tavares Azevedo**
+- **Thamyres Schroeder Paula Souza**
 
 Referência da base: P. Cortez, A. Cerdeira, F. Almeida, T. Matos e J. Reis. *Modeling wine preferences by data mining from physicochemical properties.* Decision Support Systems, 47(4):547–553, 2009.
